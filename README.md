@@ -59,6 +59,6 @@ In this command:
 ## Dataset 
 The dataset provided encompasses a comprehensive collection of spare parts associated with washing machines, covering a wide spectrum of components essential for their functioning. It includes various categories such as timers, shafts, and an array of other integral parts crucial in the operation and maintenance of washing machines. This diverse dataset serves as a valuable resource for training and validating object detection models specifically tailored for identifying these essential components within the realm of washing machine systems.
  
-[Data Set Link](https://drive.google.com/drive/u/2/my-drive)
+[Data Set Link](https://drive.google.com/drive/u/2/folders/1T1E-4WB4jfuEpUaOrSF5Xxwroly-FDgY)
 
 
